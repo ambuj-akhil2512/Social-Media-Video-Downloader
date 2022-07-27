@@ -1,7 +1,8 @@
-import sys
+
 import streamlit as st
 from PIL import Image
-
+import pytube
+from pytube import YouTube
 import instaloader
 from instaloader import Post
 import requests
