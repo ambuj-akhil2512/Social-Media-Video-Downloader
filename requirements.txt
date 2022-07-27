@@ -1,4 +1,4 @@
-import sys
+python -m pip install --upgrade pip
 import streamlit as st
 from PIL import Image
 from pytube import YouTube
